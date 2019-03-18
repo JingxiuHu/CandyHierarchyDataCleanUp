@@ -23,3 +23,6 @@ we do need to find somthing to do with these inputs.
 | feature engineering | by the end of 8th week   |
 | statistical summary | by the end of 9th week   |  
 | visualization       | by March 8th             |    
+
+Link to Project via Binder:
+https://mybinder.org/v2/gh/JingxiuHu/CandyHierarchyDataCleanUp/master?filepath=Project Report.ipynb
