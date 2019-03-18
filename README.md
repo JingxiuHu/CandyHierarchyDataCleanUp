@@ -25,4 +25,4 @@ we do need to find somthing to do with these inputs.
 | visualization       | by March 8th             |    
 
 Link to Project via Binder:
-https://mybinder.org/v2/gh/JingxiuHu/CandyHierarchyDataCleanUp/master?filepath=Project Report.ipynb
+https://mybinder.org/v2/gh/JingxiuHu/CandyHierarchyDataCleanUp/master?filepath=Project_Report.ipynb
